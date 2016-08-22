@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>/Users/medhathanbali/Library/Application Support/Wwise/Bottles/wwise/dosdevices/c:/users/crossover/My Documents/WwiseProjects/vive_le_vent/</ProjectRoot>
+		<SourceFilesRoot>/Users/medhathanbali/Library/Application Support/Wwise/Bottles/wwise/dosdevices/c:/users/crossover/My Documents/WwiseProjects/vive_le_vent/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/medhathanbali/Library/Application Support/Wwise/Bottles/wwise/dosdevices/c:/users/crossover/My Documents/WwiseProjects/vive_le_vent/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/medhathanbali/Library/Application Support/Wwise/Bottles/wwise/dosdevices/c:/users/crossover/My Documents/WwiseProjects/vive_le_vent/GeneratedSoundBanks/Windows/</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1170469387" Language="SFX">
+			<ShortName>vive_le_vent_soundbank</ShortName>
+			<Path>vive_le_vent_soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1853303301" Name="c1"/>
+				<Event Id="186670995" Name="c1_fall"/>
+				<Event Id="1853303302" Name="c2"/>
+				<Event Id="2339852754" Name="c2_fall"/>
+				<Event Id="1853303303" Name="c3"/>
+				<Event Id="164656025" Name="c3_fall"/>
+				<Event Id="4265863879" Name="girouette"/>
+				<Event Id="1114964412" Name="start_game"/>
+				<Event Id="1462260799" Name="start_splash"/>
+				<Event Id="210615102" Name="stop_game"/>
+				<Event Id="1181390628" Name="ui1"/>
+				<Event Id="1181390631" Name="ui2"/>
+				<Event Id="2469837150" Name="wind_start"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="18311609" Language="SFX">
+					<ShortName>sfx_girouette_03.wav</ShortName>
+					<Path>SFX/sfx_girouette_03_9E69E797.wem</Path>
+				</File>
+				<File Id="128993045" Language="SFX">
+					<ShortName>sfx_wind_loop.wav</ShortName>
+					<Path>SFX/sfx_wind_loop_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="179492917" Language="SFX">
+					<ShortName>sfx_Char2_Balance.wav</ShortName>
+					<Path>SFX/sfx_Char2_Balance_9E69E797.wem</Path>
+				</File>
+				<File Id="200670485" Language="SFX">
+					<ShortName>sfx_char2_fall.wav</ShortName>
+					<Path>SFX/sfx_char2_fall_9E69E797.wem</Path>
+				</File>
+				<File Id="204910568" Language="SFX">
+					<ShortName>sfx_girouette_06.wav</ShortName>
+					<Path>SFX/sfx_girouette_06_9E69E797.wem</Path>
+				</File>
+				<File Id="233941409" Language="SFX">
+					<ShortName>sfx_Char2_Balance3.wav</ShortName>
+					<Path>SFX/sfx_Char2_Balance3_9E69E797.wem</Path>
+				</File>
+				<File Id="267708170" Language="SFX">
+					<ShortName>sfx_Char3_Balance2.wav</ShortName>
+					<Path>SFX/sfx_Char3_Balance2_9E69E797.wem</Path>
+				</File>
+				<File Id="292361728" Language="SFX">
+					<ShortName>sfx_Char1_Balance3.wav</ShortName>
+					<Path>SFX/sfx_Char1_Balance3_9E69E797.wem</Path>
+				</File>
+				<File Id="315514228" Language="SFX">
+					<ShortName>sfx_wind_high_loop.wav</ShortName>
+					<Path>SFX/sfx_wind_high_loop_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="327363641" Language="SFX">
+					<ShortName>mus_vlv_intro_100bpm.wav</ShortName>
+					<Path>SFX/mus_vlv_intro_100bpm_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="368843528" Language="SFX">
+					<ShortName>Run or Score1v2.wav</ShortName>
+					<Path>SFX/Run or Score1v2_9E69E797.wem</Path>
+				</File>
+				<File Id="382630817" Language="SFX">
+					<ShortName>sfx_char1_fall.wav</ShortName>
+					<Path>SFX/sfx_char1_fall_9E69E797.wem</Path>
+				</File>
+				<File Id="427503714" Language="SFX">
+					<ShortName>sfx_Char2_Balance2.wav</ShortName>
+					<Path>SFX/sfx_Char2_Balance2_9E69E797.wem</Path>
+				</File>
+				<File Id="483932075" Language="SFX">
+					<ShortName>sfx_girouette_08.wav</ShortName>
+					<Path>SFX/sfx_girouette_08_9E69E797.wem</Path>
+				</File>
+				<File Id="516412218" Language="SFX">
+					<ShortName>sfx_girouette_01.wav</ShortName>
+					<Path>SFX/sfx_girouette_01_9E69E797.wem</Path>
+				</File>
+				<File Id="530033128" Language="SFX">
+					<ShortName>mus_vlv_splash_loop_50bpm.wav</ShortName>
+					<Path>SFX/mus_vlv_splash_loop_50bpm_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="546058076" Language="SFX">
+					<ShortName>sfx_Char3_Balance3.wav</ShortName>
+					<Path>SFX/sfx_Char3_Balance3_9E69E797.wem</Path>
+				</File>
+				<File Id="693599415" Language="SFX">
+					<ShortName>sfx_Char1_Balance.wav</ShortName>
+					<Path>SFX/sfx_Char1_Balance_9E69E797.wem</Path>
+				</File>
+				<File Id="713153286" Language="SFX">
+					<ShortName>sfx_Char1_Balance2.wav</ShortName>
+					<Path>SFX/sfx_Char1_Balance2_9E69E797.wem</Path>
+				</File>
+				<File Id="766581892" Language="SFX">
+					<ShortName>mus_vlv_loop.wav</ShortName>
+					<Path>SFX/mus_vlv_loop_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="787364609" Language="SFX">
+					<ShortName>sfx_Char3_Balance.wav</ShortName>
+					<Path>SFX/sfx_Char3_Balance_9E69E797.wem</Path>
+				</File>
+				<File Id="844639138" Language="SFX">
+					<ShortName>mus_vlv_fin_100bpm.wav</ShortName>
+					<Path>SFX/mus_vlv_fin_100bpm_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="854074475" Language="SFX">
+					<ShortName>sfx_char3_fall.wav</ShortName>
+					<Path>SFX/sfx_char3_fall_9E69E797.wem</Path>
+				</File>
+				<File Id="898292137" Language="SFX">
+					<ShortName>sfx_girouette_02.wav</ShortName>
+					<Path>SFX/sfx_girouette_02_9E69E797.wem</Path>
+				</File>
+				<File Id="924766377" Language="SFX">
+					<ShortName>sfx_girouette_04.wav</ShortName>
+					<Path>SFX/sfx_girouette_04_9E69E797.wem</Path>
+				</File>
+				<File Id="958240043" Language="SFX">
+					<ShortName>sfx_girouette_05.wav</ShortName>
+					<Path>SFX/sfx_girouette_05_9E69E797.wem</Path>
+				</File>
+				<File Id="1017283404" Language="SFX">
+					<ShortName>mus_vlv_splash_intro_50bpm.wav</ShortName>
+					<Path>SFX/mus_vlv_splash_intro_50bpm_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="1034973397" Language="SFX">
+					<ShortName>Run or Score1.wav</ShortName>
+					<Path>SFX/Run or Score1_9E69E797.wem</Path>
+				</File>
+				<File Id="1049217551" Language="SFX">
+					<ShortName>sfx_girouette_07.wav</ShortName>
+					<Path>SFX/sfx_girouette_07_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
